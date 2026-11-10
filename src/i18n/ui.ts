@@ -10,7 +10,7 @@ export const defaultLang: Lang = "es";
 
 export const ui = {
   es: {
-    "site.title": "Dreamer carfter",
+    "site.title": "code-ed-dev",
     "site.description": "Bookmark this to keep an eye on my project updates!",
 
     "nav.home": "Inicio",
@@ -38,7 +38,7 @@ export const ui = {
     "error.404.cta": "Regresar a la base de datos principal",
   },
   en: {
-    "site.title": "Dreamer carfter",
+    "site.title": "code-ed-dev",
     "site.description": "Bookmark this to keep an eye on my project updates!",
 
     "nav.home": "Home",

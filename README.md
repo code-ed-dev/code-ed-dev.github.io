@@ -1,4 +1,4 @@
-# dreamercrafter.github.io
+# code-ed-dev.github.io
 
 Web personal construida con **Astro** y desplegada a GitHub Pages.
 Puedes ver la versión en producción cuando GitHub Pages esté configurado.
